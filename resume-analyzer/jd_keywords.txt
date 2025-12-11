@@ -1,0 +1,6 @@
+python
+sql
+machine learning
+communication
+teamwork
+deep learning
